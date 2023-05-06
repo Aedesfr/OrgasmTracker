@@ -42,8 +42,6 @@ The sensors are connected to the Raspberry Pi using GPIO pins. The specific pin 
 
 ## Actuators
 
-## Actuators
-
 But why stop at just measuring physiological reactions? OrgasmTracker can also be used to enhance the orgasm experience with the use of actuators! Here are some examples of the naughty things you can do:
 
 1. Vibrators - Use a connected vibrator to increase pleasure and take the orgasm to new heights.
