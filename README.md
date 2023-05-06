@@ -31,7 +31,7 @@ The following sensors are used to track physiological variables during orgasm:
    - Components: Dupont Cables (female-female)
    - Measurement locations: Near genitalia, breasts, or other areas where increased blood flow is expected during orgasm
 
-6. Anal contraction measurement
+6. Anal contraction
    - Sensor: Pressure sensor (stainless steel, output signal type: Analog sensor, Accuracy: 1%FS, thread: G1/4")
    - Components: Dupont Cables (female-female)
    - Measurement locations: Inside the anal canal (with the subject's consent and proper sterilization of the sensor)
