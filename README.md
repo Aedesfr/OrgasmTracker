@@ -56,6 +56,3 @@ The possibilities are endless! With the OrgasmTracker, you can collect data, ana
 ## Data Collection and Analysis
 
 The OrgasmTracker collects data from each sensor during the course of an orgasm. This data can be stored locally on the Raspberry Pi or transmitted to a remote server for further analysis. By examining the collected data, researchers and individuals can gain insights into the physiological processes occurring during orgasm and potentially develop personalized, data-driven sexual experiences using the actuators.
-
-
-Aedes
